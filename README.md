@@ -2,6 +2,8 @@
 
 A powerful, fully asynchronous command-line tool written in Python for real-time and offline analysis of Apache HTTP Server status (`/server-status`). It provides a responsive terminal layout (similar to `top` or `htop`) with automated pattern detection to quickly identify brute-force attacks, XML-RPC floods, or high-traffic domains.
 
+![Apache server-status analyzer & monitoring - preview](./preview.jpg)
+
 ## Features
 
 - **Dual Modes:** Supports live tracking of multiple remote/local hosts as well as offline analysis of saved HTML status pages.
