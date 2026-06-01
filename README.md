@@ -34,7 +34,9 @@ python3 ssan.py
 ```
 
 To monitor multiple live hosts concurrently with a specific refresh interval (e.g., 5 seconds):
-!python3 ssan.py --host example.com,api.example.com,stage.net --port 80 --interval 5!
+```
+python3 ssan.py --host example.com,api.example.com,stage.net --port 80 --interval 5
+```
 
 For secure connections via HTTPS:
 ```
