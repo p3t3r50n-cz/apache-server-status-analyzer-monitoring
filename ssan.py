@@ -1,8 +1,15 @@
 #!/usr/bin/env python3
 """
 Apache Analyzer & Monitoring - Live & Offline Mode
-Fully asynchronous architecture with background workers, fixed layout,
-and support for files (-r/--read) or pipe (|).
+Fully asynchronous architecture with background workers, responsive layout,
+and support for live real-time monitoring and files (-r/--read) or pipe (|) input.
+
+Author: Petr Palacky
+AI Collaboration: DeepSeek, Gemini
+Date: 2026
+Version: 0.1
+
+Project page: https://github.com/p3t3r50n-cz/apache-server-status-analyzer-monitoring
 """
 
 import requests
